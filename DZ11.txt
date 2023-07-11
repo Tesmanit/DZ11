@@ -6,3 +6,10 @@ git add blog/ (Додано задля того, щоб blog/ лишилась �
 git commit -m "added new folder to newbranch"
 git remote add origin https://github.com/Tesmanit/DZ11.git
 git push -u origin master
+
+.gitignore:
+*.sass
+bin/
+admin/
+config/
+.gitignore
