@@ -4,6 +4,5 @@ git commit -m "DZ11 added" (Перший комміт для створення 
 git checkout -b newbranch
 git add blog/ (Додано задля того, щоб blog/ лишилась в гілці newbranch)
 git commit -m "added new folder to newbranch"
-git push -u origin master
 git remote add origin https://github.com/Tesmanit/DZ11.git
 git push -u origin master
